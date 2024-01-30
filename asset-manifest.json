@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noman-siddiqi/TestUtils-React.git/static/css/main.0f3c036f.css",
+    "main.js": "/noman-siddiqi/TestUtils-React.git/static/js/main.0fb11a05.js",
+    "static/js/787.fb9a5fa6.chunk.js": "/noman-siddiqi/TestUtils-React.git/static/js/787.fb9a5fa6.chunk.js",
+    "index.html": "/noman-siddiqi/TestUtils-React.git/index.html",
+    "main.0f3c036f.css.map": "/noman-siddiqi/TestUtils-React.git/static/css/main.0f3c036f.css.map",
+    "main.0fb11a05.js.map": "/noman-siddiqi/TestUtils-React.git/static/js/main.0fb11a05.js.map",
+    "787.fb9a5fa6.chunk.js.map": "/noman-siddiqi/TestUtils-React.git/static/js/787.fb9a5fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3c036f.css",
+    "static/js/main.0fb11a05.js"
+  ]
+}
